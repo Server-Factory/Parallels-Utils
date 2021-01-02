@@ -1,7 +1,7 @@
-# [Server Factory](https://github.com/milos85vasic/Server-Factory) [Parallels](https://www.parallels.com/) Utils
+# [Server Factory](https://github.com/Server-Factory/Core-Framework) [Parallels](https://www.parallels.com/) Utils
 
-[Server Factory](https://github.com/milos85vasic/Server-Factory) [Parallels](https://www.parallels.com/) Utils
-toolkit can be used as a part of [Server Factory](https://github.com/milos85vasic/Server-Factory) projects or
+[Server Factory](https://github.com/Server-Factory/Core-Framework) [Parallels](https://www.parallels.com/) Utils
+toolkit can be used as a part of [Server Factory](https://github.com/Server-Factory/Core-Framework) projects or
 completely independently. The main goal of this toolkit is to provide the following:
 
 - A mechanism for compression and synchronization of [Parallels](https://www.parallels.com/) images
